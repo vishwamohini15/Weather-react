@@ -1,0 +1,28 @@
+body{
+background-color: rgba(4, 130, 240, 0.648);
+     color: rgb(19, 19, 255);
+     box-sizing: border-box;
+     background-position: center;
+     background-repeat: repeat;
+}
+
+img{
+     background-color: rgb(111, 0, 255);
+}
+
+.wrap{
+     width: 33%;
+}
+input{
+     width: 85%;
+     padding: 10px;
+}
+
+.searchbutton{
+     width: 15%;
+     padding: 10px;
+     background-color: brown;
+     color: white;
+     font-weight: 600;
+     bottom: none;
+}

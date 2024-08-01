@@ -1,0 +1,28 @@
+.contain{
+   
+     background-color: #fff;
+     height: 200px;
+
+}
+
+.extra-temp{
+     width: 500px;
+     background-color: brown;
+     color: white;
+     font-weight: 600;
+     bottom: none;
+     display: flex;
+     flex-wrap: wrap;
+     align-content: center;
+     justify-content: center;
+     gap: 80px;
+}
+
+.weather-extra-info{
+     display: flex;
+     gap: 62px;
+}
+.weathericon{
+     padding: 15px;
+     font-size: 40px;
+}
